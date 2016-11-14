@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width">
+	<title>Test Menu</title>
+</head>
+<body>
+<a href="/embedimg.htm">HTML using PROGMEM, img data in src attribute</a><br>
+<a href="/imgtest.htm">HTML using PROGMEN, img accessed as separate file</a><br>
+</body>
+</html>
